@@ -1,14 +1,23 @@
+## backend
 
-# Project Title
+```bash
+  cd backend
+  yarn
+  yarn run dev
+```
 
-cd backend
-yarn
-yarn run dev
+## web
 
-cd deskop
-yarn
-yarn run dev
+```bash
+  cd web
+  yarn
+  yarn run dev
+```
 
-cd web
-yarn
-yarn run dev
+## desktop
+
+```bash
+  cd desktop
+  yarn
+  yarn run dev
+```
