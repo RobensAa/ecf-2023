@@ -1,0 +1,1 @@
+export { default as LayoutWeb } from "./layout.web"
